@@ -1,0 +1,1 @@
+phần cho phép người dùng theo dõi sự thay đổi của thông tin chứng khoán trong và ngoài nước để có cái nhìn tổng quát về chứng khoán
